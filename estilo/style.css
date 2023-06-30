@@ -204,3 +204,10 @@ footer a:hover{
     color: var(--cor1);
 }
 
+/* MOBILE */
+
+@media (max-width: 740px){
+    aside > ul{
+        columns: 1;
+    }
+}

@@ -191,6 +191,11 @@ footer{
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+
 }
 
 footer a {
